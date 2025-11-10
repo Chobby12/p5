@@ -100,3 +100,7 @@ print(len(students))
 # for student in sorted_students:
 #     print(f"{num}. {student["name"]} : {student["age"]}")
 #     num += 1
+
+
+print(students[2]["characteristics"]["shirt"])
+
